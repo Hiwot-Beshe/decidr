@@ -29,7 +29,7 @@ function App() {
        
 				<form onSubmit={submitHandler}>
 					<label>
-						List
+						Lists
 						<input type="text" name="name" onChange={onchange} />
 					</label>
 
