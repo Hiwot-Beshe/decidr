@@ -25,6 +25,14 @@ function App(selectItem, setSelectItem) {
 					setListContainer={setListContainer}
 				/>
 			</div>
+			<div>
+				<SelectorItem
+					listContainer={listContainer}
+					setListContainer={setListContainer}
+					selectItem={selectItem}
+					setSelectItem={setSelectItem}
+				/>
+			</div>
 		</div>
 	);
 }
