@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+
+import "./App.css";
 import { useState } from "react";
 import AddItem from "./Components/AddItem";
 import SelectorItem from "./Components/SelectorItem";
