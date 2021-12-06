@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/decidr/static/css/main.c6bcc6b6.chunk.css",
-    "main.js": "/decidr/static/js/main.829d7bef.chunk.js",
-    "main.js.map": "/decidr/static/js/main.829d7bef.chunk.js.map",
-    "runtime-main.js": "/decidr/static/js/runtime-main.fa6a455c.js",
-    "runtime-main.js.map": "/decidr/static/js/runtime-main.fa6a455c.js.map",
-    "static/js/2.0be67ae3.chunk.js": "/decidr/static/js/2.0be67ae3.chunk.js",
-    "static/js/2.0be67ae3.chunk.js.map": "/decidr/static/js/2.0be67ae3.chunk.js.map",
-    "static/js/3.e2a3213e.chunk.js": "/decidr/static/js/3.e2a3213e.chunk.js",
-    "static/js/3.e2a3213e.chunk.js.map": "/decidr/static/js/3.e2a3213e.chunk.js.map",
-    "index.html": "/decidr/index.html",
-    "static/css/main.c6bcc6b6.chunk.css.map": "/decidr/static/css/main.c6bcc6b6.chunk.css.map",
-    "static/js/2.0be67ae3.chunk.js.LICENSE.txt": "/decidr/static/js/2.0be67ae3.chunk.js.LICENSE.txt"
+    "main.css": "/Hiwot-Beshe/decidr.git/static/css/main.c6bcc6b6.chunk.css",
+    "main.js": "/Hiwot-Beshe/decidr.git/static/js/main.829d7bef.chunk.js",
+    "main.js.map": "/Hiwot-Beshe/decidr.git/static/js/main.829d7bef.chunk.js.map",
+    "runtime-main.js": "/Hiwot-Beshe/decidr.git/static/js/runtime-main.54ae4d07.js",
+    "runtime-main.js.map": "/Hiwot-Beshe/decidr.git/static/js/runtime-main.54ae4d07.js.map",
+    "static/js/2.0be67ae3.chunk.js": "/Hiwot-Beshe/decidr.git/static/js/2.0be67ae3.chunk.js",
+    "static/js/2.0be67ae3.chunk.js.map": "/Hiwot-Beshe/decidr.git/static/js/2.0be67ae3.chunk.js.map",
+    "static/js/3.e2a3213e.chunk.js": "/Hiwot-Beshe/decidr.git/static/js/3.e2a3213e.chunk.js",
+    "static/js/3.e2a3213e.chunk.js.map": "/Hiwot-Beshe/decidr.git/static/js/3.e2a3213e.chunk.js.map",
+    "index.html": "/Hiwot-Beshe/decidr.git/index.html",
+    "static/css/main.c6bcc6b6.chunk.css.map": "/Hiwot-Beshe/decidr.git/static/css/main.c6bcc6b6.chunk.css.map",
+    "static/js/2.0be67ae3.chunk.js.LICENSE.txt": "/Hiwot-Beshe/decidr.git/static/js/2.0be67ae3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa6a455c.js",
+    "static/js/runtime-main.54ae4d07.js",
     "static/js/2.0be67ae3.chunk.js",
     "static/css/main.c6bcc6b6.chunk.css",
     "static/js/main.829d7bef.chunk.js"
