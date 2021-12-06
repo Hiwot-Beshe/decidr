@@ -7,7 +7,7 @@ import DisplayItem from "./Components/DisplayItem";
 
 function App(selectItem, setSelectItem) {
 	const [listContainer, setListContainer] = useState([]);
-	
+
 	return (
 		<div className="App">
 			<header className="App-header">
